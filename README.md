@@ -26,20 +26,23 @@ The focus is on **UI/UX quality, responsiveness, and clean project structure**.
 ## 📂 Project Structure
 
 ```
----
+<h2>📂 Project Structure</h2>
+
+<pre>
 lib/
-┣ widgets/
-┃ ┣ button.dart
-┃ ┣ custom\_border.dart
-┃ ┣ custom\_searchbar.dart
-┃ ┣ filter\_chips.dart
-┃ ┣ order\_table.dart
-┣ main.dart
-┣ order\_screen.dart
+ ┣ widgets/
+ ┃ ┣ button.dart
+ ┃ ┣ custom_border.dart
+ ┃ ┣ custom_searchbar.dart
+ ┃ ┣ filter_chips.dart
+ ┃ ┣ order_table.dart
+ ┣ main.dart
+ ┣ order_screen.dart
 assets/
-┣ fonts/
-┗ images/
----
+ ┣ fonts/
+ ┗ images/
+</pre>
+
 ````
 
 ---
