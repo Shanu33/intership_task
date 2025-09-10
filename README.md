@@ -1,7 +1,3 @@
-Bhai, maine tera `README.md` **proper indentation + typos fix + alignment** ke sath polish karke diya hai. Ab yeh clean, professional aur directly GitHub pe dalne layak hai 👇
-
----
-
 ### 📄 Final `README.md`
 
 ```markdown
@@ -74,7 +70,7 @@ flutter run
 
 | Web Reference                                             | Mobile (Portrait)                                       | Mobile (Landscape)                                         |
 | --------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Web Orders Page](assets/screen_shots/web_reference.jpg) | ![Mobile Portrait](assets/screen_shots/mob_potrait.png) | ![Mobile Landscape](assets/screen_shots/mob_landscape.png) |
+| ![Web Orders Page](assets/screen_shots/web_reference.jpg) | ![Mobile Portrait](assets/screen_shots/mob_potrait.PNG) | ![Mobile Landscape](assets/screen_shots/mob_landscape.jpg) |
 
 ---
 
@@ -114,5 +110,3 @@ flutter run
 
 * **Shahnawaz Khan**
 * [GitHub Profile](https://github.com/shanu33)
-
-```
