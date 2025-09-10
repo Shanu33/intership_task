@@ -15,7 +15,7 @@ class CustomSearchBar extends StatelessWidget {
   final Color containerColor;
   final bool showRightBorder;
   final String iconPath;
-  final Function(String) onIconTap;
+  final Function(String)  onIconTap;
 
   const CustomSearchBar({
     super.key,
