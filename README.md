@@ -51,7 +51,7 @@ assets/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/shanu33/order_page.git
+git clone https://github.com/shanu33/order_page_task.git
 cd flutter_orders_responsive
 ````
 
