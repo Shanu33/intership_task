@@ -26,7 +26,7 @@ The focus is on **UI/UX quality, responsiveness, and clean project structure**.
 ## 📂 Project Structure
 
 ```
-
+---
 lib/
 ┣ widgets/
 ┃ ┣ button.dart
@@ -39,7 +39,7 @@ lib/
 assets/
 ┣ fonts/
 ┗ images/
-
+---
 ````
 
 ---
