@@ -95,8 +95,6 @@ flutter run
    - `order_table.dart`
 3. Implemented **responsive design** using:
    - `MediaQuery` for screen dimensions and relative layout building (so that elements adapt proportionally across devices).
-   - `LayoutBuilder` for adaptive layouts.
-   - `AdaptiveLinearLayout` for flexible responsiveness.
 4. Ensured a **clean project structure** for scalability.
 5. Focused on **mobile-first design** with smooth UX.
 
