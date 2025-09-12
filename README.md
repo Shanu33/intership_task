@@ -3,7 +3,7 @@
 ```markdown
 # Flutter Orders Page - Mobile Responsive UI
 
-This project is part of the internship assignment for recreating the *Orders page* from the given web application into a **mobile-responsive Flutter UI**.  
+This project is part of the internship assignment for recreating the ***Orders page*** from the given web application into a **mobile-responsive Flutter UI**.  
 The focus is on **UI/UX quality, responsiveness, and clean project structure**.
 
 ---
